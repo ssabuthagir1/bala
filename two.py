@@ -8,4 +8,4 @@ c=a+b
 #notes
 x=50
 y=50
-z=x-y
+z=x+y
