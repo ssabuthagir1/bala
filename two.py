@@ -6,3 +6,6 @@ a=10
 b=20
 c=a+b
 #notes
+x=50
+y=50
+z=x-y
